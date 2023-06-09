@@ -1,5 +1,5 @@
-## Исследование объявлений о продаже квартир
-[ipynb]()    [html](https://github.com/splin-post/Portfolio/blob/main/project_estate/project_estate_pub.html)   [pdf](https://github.com/splin-post/Portfolio/blob/main/project_estate/project_estate_pub.pdf)
+## Приоритизация гипотез и анализ проведенного A/B теста
+[ipynb](https://github.com/gm-ac/portfolio/blob/main/project_ab_testing/project_ab%20_testing.ipynb)    [html]()   [pdf]()
 
 ### Описание проекта
 Необходимо проанализировать и приоритизировать несколько гипотез и <br>
