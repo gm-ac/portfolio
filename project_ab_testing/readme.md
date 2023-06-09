@@ -1,5 +1,5 @@
 ## Приоритизация гипотез и анализ проведенного A/B теста
-[ipynb](project_ab_testing/project_ab_testing.ipynb)    [html]()   [pdf]()
+[ipynb](https://github.com/gm-ac/portfolio/blob/main/project_ab_testing/project_ab_testing.ipynb)    [html]()   [pdf]()
 
 ### Описание проекта
 Необходимо проанализировать и приоритизировать несколько гипотез и <br>
