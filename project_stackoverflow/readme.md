@@ -1,5 +1,5 @@
 ## Анализ активности пользователей сайта stackoberflow
-[ipynb] (https://github.com/gm-ac/portfolio/blob/main/project_stackoverflow/project_stackoverflow_research_SQL.ipynb)
+[ipynb](https://github.com/gm-ac/portfolio/blob/main/project_stackoverflow/project_stackoverflow_research_SQL.ipynb)
 
 ### Описание проекта
 Анализ сайта stackoverflow с использовнием SQL
