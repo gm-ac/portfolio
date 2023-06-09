@@ -1,5 +1,5 @@
 ## 	Поиск, выявление и анализ причин возникновения убытков развлекательного приложения
-[ipynb]  
+[ipynb] (https://github.com/gm-ac/portfolio/blob/main/project_entertainment_app/project_enterainment_app.ipynb)
 
 ### Описание проекта
 Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки. 
