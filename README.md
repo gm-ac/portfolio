@@ -10,5 +10,6 @@
 | 4 | [Исследование взаимодействий пользователей с карточками Дзен](project_zen)| Автоматизация выгрузки данных из БД, создание дашборда для анализа информации по согласованным KPI | python, pandas, sqlalchemy, plotly, Tableau |
 | 5 | [Исследование текущего уровня лояльности клиентов телекоммуникационной компании в России](project_nps) | Анализ данных телекоммуникационной компании и определение уровня лояльности клиентов | python, SQL, pandas, Tableau, powerpoint
 | 6 | [Интернет-магазин. Приоритезация гипотез и анализ результатов А/В теста](project_ab_testing) | Приоритезация гипотез и анализ А/В теста | python, pandas, numpy, matplotlib
+| 7 | [Анализ активности пользователей сайта stackoberflow](project_stackoverflow) | Анализ сайта stackoverflow | python, sqlalchemy, pandas, numpy, matplotlib, seaborn
 
 
