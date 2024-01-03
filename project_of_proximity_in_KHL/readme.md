@@ -1,6 +1,6 @@
 ## Исследование текущего уровня лояльности клиентов телекоммуникационной компании в России
 
-[ipynb](https://github.com/gm-ac/portfolio/blob/main/project_of_proximity_in_KHL/project_lemtyugov_number_for_git.ipynb)    [html](https://github.com/splin-post/Portfolio/blob/main/project_nps/project_nps_pub.html)
+[ipynb](https://github.com/gm-ac/portfolio/blob/main/project_of_proximity_in_KHL/project_lemtyugov_number_for_git.ipynb)    
 
 
 ### Описание проекта
